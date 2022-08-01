@@ -39,6 +39,11 @@
 .service-box_text .srates{
     font-size: 10px;
 }
+#service-detial-paragrph-detial{
+    font-size: 12px !important;
+    color: white;
+    margin: 0;
+}
 
 
 
