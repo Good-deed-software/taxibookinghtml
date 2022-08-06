@@ -44,6 +44,12 @@
     color: white;
     margin: 0;
 }
+.carousel-inner{
+    width: 73% !important;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
 
 
 
@@ -4324,8 +4330,8 @@ a.text-theme:hover,
     }
 }
 
-.as-widget-about {
-    max-width: 290px
+.about-company{
+    max-width: 653px !important;
 }
 
 .footer-text {
